@@ -3,3 +3,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://www.tenhomaisdiscosqueamigos.com/wp-content/uploads/2020/06/Dark-7.png">
   <img alt="Profile banner" src="light-banner.png">
 </picture>
+
+
+![](header-dark.png)
+![](header-light.png)
+![](header-dual.png)
