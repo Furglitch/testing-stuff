@@ -5,6 +5,6 @@
 </picture>
 
 
-![](header-dark.png)
-![](header-light.png)
-![](header-dual.png)
+![](header-dark.png)</br>
+![](header-light.png)</br>
+![](header-dual.png)</br>
