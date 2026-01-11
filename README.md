@@ -1,10 +1,23 @@
-<!-- No-Underline Header, https://stackoverflow.com/questions/78111887/how-to-remove-unwanted-horizontals-line-in-markdown/78845294#78845294 -->
-<div id="user-content-toc" align="center"> <ul align="center" style="list-style: none;"> <summary>
-  <h1>
-    <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="header-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="header-light.png">
-    <img alt="Profile banner" src="header-light.png">
-    </picture>
-  </h1>
-</summary> </ul> </div>
+![alt text](https://markdown-inline-svg.vitalibo.click/svg?source=https://raw.githubusercontent.com/furglitch/testing-stuff/main/readme.md&name=sample.svg)
+
+@sample.svg
+<svg width="104.25" height="48" viewBox="0 0 556 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<defs>
+
+
+</defs>
+
+<g transform="translate(0, 0)">
+    <svg x="0" y="0" width="556" height="256" viewBox="0 0 128 128" preserveAspectRatio="xMinYMin meet">
+    <style>
+        #sh_plex_bg {fill: #15191C}
+
+        @media (prefers-color-scheme: light) {
+            #sh_plex_bg {fill: #F4F2ED}
+        }
+    </style>
+    <rect id="sh_plex_bg" width="128" height="128" rx="20"/>
+    <image href="https://cdn.jsdelivr.net/gh/selfhst/icons@main/svg/plex.svg" x="12" y="12" width="104" height="104" preserveAspectRatio="xMidYMid meet"/>
+    </svg>
+</g>
+@sample.svg
