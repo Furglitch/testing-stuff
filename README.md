@@ -3,15 +3,11 @@
 @sample.svg
 <svg width="104.25" height="48" viewBox="0 0 556 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <defs>
-
-
 </defs>
-
 <g transform="translate(0, 0)">
     <svg x="0" y="0" width="556" height="256" viewBox="0 0 128 128" preserveAspectRatio="xMinYMin meet">
     <style>
         #sh_plex_bg {fill: #15191C}
-
         @media (prefers-color-scheme: light) {
             #sh_plex_bg {fill: #F4F2ED}
         }
